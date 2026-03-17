@@ -2,7 +2,7 @@
 
 A minimal starter template for [Dynamic Worker Loaders](https://developers.cloudflare.com/workers/runtime-apis/bindings/worker-loader/) on Cloudflare Workers.
 
-Dynamic Workers let you spawn lightweight isolates at runtime that execute arbitrary code — sandboxed, fast, and disposable.
+Dynamic Workers let you spawn Workers at runtime that execute arbitrary code — sandboxed, fast, and disposable.
 
 [![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/dinasaur404/dynamic-worker-hello-world)
 
